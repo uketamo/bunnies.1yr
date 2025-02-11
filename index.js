@@ -23,7 +23,6 @@
 //   });
 // });
 
-// test
 const tabImage = document.querySelectorAll(".gallery img")
 // console.log(tabImage);
 for(let i = 0; i < tabImage.length; i++){

@@ -55,3 +55,17 @@ body {
   place-content: center;
   background: #83AF9B;
 }
+
+h1 {
+  font-family: oswald;
+  font-size: 108px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 1;
+}
+p {
+  font-family: Inter;
+  letter-spacing: 0.55px;
+  font-size: 16px;
+  line-height: 28px;
+}
